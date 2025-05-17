@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "predeploy": [
+      "echo Skipping ESLint"
+    ]
+  }
+}
